@@ -1,166 +1,175 @@
 # SEO Backlink Health Check
+
 ## Project Overview
 
-Proyek ini merupakan bagian dari aktivitas Inbound Marketing yang bertujuan menjaga kesehatan profil backlink sebuah website melalui audit berkala terhadap backlink yang bermasalah, termasuk broken links, lost links, spammy backlinks, dan unindexed backlinks.
+Proyek ini merupakan bagian dari aktivitas **Inbound Marketing Team** untuk melakukan monitoring dan maintenance backlink secara berkala.
 
-Sebagai bagian dari Inbound Marketing Team, saya melakukan pengecekan backlink berdasarkan data dari tracking sheet dan hasil audit SEO, kemudian mendokumentasikan temuan serta tindak lanjut yang diperlukan untuk menjaga kualitas dan kelayakan backlink.
+Saya bertanggung jawab melakukan audit backlink menggunakan **Ahrefs**, mengolah hasil audit ke dalam spreadsheet, mengidentifikasi masalah, memberikan rekomendasi, menyusun laporan, serta melakukan follow-up berdasarkan hasil review Project Manager (PM).
 
-## Latar Belakang & Masalah
+---
 
-Backlink yang diperoleh melalui aktivitas link building perlu dipantau secara berkala karena kondisi backlink dapat berubah setelah diperoleh. Beberapa permasalahan yang ditemukan dalam proses monitoring antara lain:
+## Role
 
-Broken internal links yang mengarah ke URL tidak aktif atau bermasalah.
-Broken pages yang sebelumnya memiliki backlink.
-Lost backlinks yang sudah tidak lagi dapat ditemukan.
-Backlink dari domain yang perlu direview berdasarkan kualitas atau relevansinya.
-Backlink yang belum terindeks oleh Google sehingga manfaat SEO-nya belum dapat diteruskan secara optimal.
-URL dengan status HTTP tertentu yang memerlukan pemeriksaan atau tindak lanjut.
+**Inbound Marketing Team**
 
-Tujuan utama audit adalah mempertahankan backlink profile yang sehat dan memastikan backlink yang diperoleh tetap dapat memberikan nilai bagi website.
+---
 
-## Tugas & Tanggung Jawab Saya
+## Objective
 
-Sebagai bagian dari Inbound Marketing Team, tanggung jawab saya dalam proses Backlink Health Check meliputi:
+Menjaga kesehatan backlink profile dengan mengidentifikasi dan menindaklanjuti:
 
-Melakukan pengecekan broken backlinks
-Memeriksa broken internal links.
-Memeriksa broken external links.
-Mengidentifikasi broken pages yang masih memiliki backlink.
-Meninjau lost links dan mencatat alasan atau kondisi masing-masing link.
-Melakukan pengecekan spammy backlinks
-Meninjau backlink yang berpotensi spam.
-Mengidentifikasi URL atau domain yang perlu mendapatkan perhatian lebih lanjut.
-Menyiapkan temuan untuk proses review sebelum dilakukan tindakan seperti disavow.
-Melakukan pengecekan unindexed backlinks
-Mengidentifikasi backlink yang belum terindeks.
-Memeriksa status URL.
-Mengajukan proses indexing untuk backlink yang memenuhi kriteria.
-Mengelola dan memperbarui data
-Mengisi dan memperbarui backlink tracking sheet.
-Mendokumentasikan hasil audit.
-Memperbarui daftar backlink yang diperoleh serta daftar backlink yang perlu dimonitor.
-Koordinasi dengan tim terkait
-Menyampaikan temuan kepada Project Manager.
-Memberikan informasi kepada tim terkait apabila terdapat broken page atau URL yang memerlukan perbaikan.
-Mengikuti tindak lanjut berdasarkan hasil review dan instruksi tim.
+- Spammy backlinks
+- Lost backlinks
+- Broken pages with backlinks
+- Broken internal links
+- Missing link building
+- Unindexed backlinks
 
-## Metodologi & Langkah Kerja
-1. Backlink Data Collection
+---
 
-Data backlink dikumpulkan dari backlink tracking sheet dan sumber SEO yang digunakan dalam proses link building.
+## Responsibilities
 
-Data kemudian digunakan sebagai dasar untuk melakukan pengecekan terhadap kondisi backlink yang sudah diperoleh.
+- Melakukan website backlink audit menggunakan **Ahrefs**.
+- Mengunduh dan mengolah laporan **Current Backlinks, Lost Backlinks, Broken Pages with Backlinks, dan Broken Internal Links**.
+- Mengidentifikasi backlink yang terindikasi spam dan menandainya untuk review.
+- Memeriksa lost backlinks dan mencatat kondisi serta rekomendasi tindak lanjut.
+- Memberikan rekomendasi redirect untuk broken pages with backlinks.
+- Memberikan rekomendasi perbaikan untuk broken internal links.
+- Melakukan verifikasi link building untuk memastikan backlink masih exist.
+- Submit backlink hasil link building ke **IndexMeNow** setelah dilakukan verifikasi.
+- Membuat laporan Backlink Health Check untuk direview oleh Project Manager.
+- Melakukan follow-up indexing dan resubmission sesuai workflow setelah mendapat approval.
 
-2. Broken Link Check
+---
 
-Saya memeriksa backlink yang mengalami masalah dan mengelompokkannya berdasarkan jenis masalah:
+## Methodology & Workflow
 
-Broken Internal Links
-Broken External Links
-Broken Pages with Backlinks
-Lost Links
+### 1. Ahrefs Audit
 
-Temuan kemudian dicatat pada tracking sheet untuk menentukan apakah diperlukan perbaikan, penghapusan, redirect, atau tindakan lanjutan dari tim terkait.
+Melakukan audit backlink website menggunakan Ahrefs dan mengunduh laporan:
 
-3. Spammy Backlink Review
+- Current Backlinks
+- Lost Backlinks
+- Broken Pages with Backlinks
+- Broken Internal Links
 
-Backlink yang dianggap perlu diperiksa lebih lanjut ditinjau untuk menentukan apakah backlink tersebut perlu:
+### 2. Data Processing
 
-Dipertahankan
-Ditandai untuk review
-Diajukan untuk proses disavow
+Laporan hasil export Ahrefs diolah ke dalam satu spreadsheet dan dipisahkan berdasarkan kategori untuk memudahkan proses audit dan tracking.
 
-Keputusan akhir dilakukan melalui proses review internal dan bukan berdasarkan keputusan individu semata.
+### 3. Backlink Review
 
-4. Unindexed Backlink Check
+**Current Backlinks**
+- Mengidentifikasi backlink yang terindikasi spam.
+- Menandai backlink yang perlu direview menggunakan indikator warna merah.
 
-Backlink yang belum terindeks diperiksa berdasarkan usia link dan status URL.
+**Lost Backlinks**
+- Memeriksa kembali setiap lost backlink.
+- Mencatat status seperti backlink yang sudah kembali exist.
+- Menandai backlink spam yang tidak perlu dipulihkan.
+- Backlink dengan **DR < 30** dicatat sebagai tidak memerlukan tindakan sesuai workflow yang digunakan.
 
-Untuk backlink yang memenuhi kriteria indexing, dilakukan request indexing melalui workflow yang tersedia.
+**Broken Pages with Backlinks**
+- Mengidentifikasi halaman yang broken tetapi masih memiliki backlink.
+- Memberikan rekomendasi redirect menuju working URL.
 
-Pada task yang didokumentasikan, 50 URL backlink tercatat sebagai URL yang diperoleh pada periode monitoring, dan 39 URL memiliki HTTP status 200.
+**Broken Internal Links**
+- Mengidentifikasi broken internal links.
+- Memberikan rekomendasi URL atau tindakan perbaikan untuk tim teknis.
 
-5. Documentation & Tracking
+### 4. Link Building Verification
 
-Hasil pengecekan kemudian didokumentasikan pada tracking sheet dan digunakan untuk memperbarui:
+Melakukan pengecekan kembali terhadap backlink dari aktivitas link building.
 
-Acquired Links
-Link Building Blacklist
-Link Building Greylist
-Unindexable Backlinks
+- Backlink yang hilang ditandai untuk follow-up.
+- Backlink yang masih exist diverifikasi sebelum masuk ke proses indexing.
 
-Tujuannya adalah menjaga agar data backlink tetap terstruktur dan dapat digunakan untuk monitoring berikutnya.
+### 5. Indexing
 
-6. Coordination & Follow-up
+Backlink hasil link building yang telah diverifikasi disubmit menggunakan **IndexMeNow**.
 
-Setelah audit selesai, hasil temuan dikomunikasikan kepada pihak terkait untuk menentukan tindakan berikutnya.
+Status indexing kemudian dimonitor. Backlink yang belum terindeks dapat dilakukan resubmission hingga **3 kali** sesuai workflow yang digunakan.
 
-Contohnya:
+### 6. Reporting & Follow-up
 
-Broken page → diteruskan untuk perbaikan/redirect.
-Broken internal link → diteruskan kepada tim terkait untuk penggantian URL.
-Potentially spammy backlink → disiapkan untuk proses review/disavow.
-Unindexed backlink → diajukan untuk indexing sesuai workflow.
-Audit Findings
+Setelah seluruh audit selesai, saya menyusun laporan Backlink Health Check dan menyerahkannya kepada **Project Manager** untuk review dan approval.
 
-Berdasarkan salah satu audit yang terdokumentasi, ditemukan beberapa kategori masalah backlink:
+Setelah approval:
 
-Broken Links
+- Backlink spam ditindaklanjuti untuk proses disavow.
+- Status indexing backlink dimonitor dan diperbarui.
+- Backlink yang belum terindeks dilakukan resubmission sesuai workflow.
+- Broken internal links dan broken pages ditindaklanjuti oleh **Front End Developer (FED)** berdasarkan rekomendasi yang telah saya dokumentasikan.
 
-Broken Internal Links: 5 URL
+---
 
-2 URL terdeteksi broken pada 2 halaman dan memerlukan penggantian dengan working URL.
-1 URL terdeteksi broken pada 1 halaman dan dapat dihapus.
-2 URL terdeteksi broken pada 2 halaman dan memerlukan pembuatan kembali halaman.
+## Audit Findings
 
-Broken External Links:
-Tidak ditemukan masalah yang memerlukan tindakan.
+Contoh hasil dari salah satu audit:
 
-Broken Pages with Backlinks:
-5 URL memerlukan redirect menuju halaman yang masih aktif.
+| Category | Findings |
+|---|---:|
+| Broken Internal Links | 5 URLs |
+| Broken Pages with Backlinks | 5 URLs |
+| Lost Backlinks | 19 URLs |
+| Total URLs Acquired | 50 URLs |
+| URLs with HTTP 200 | 39 URLs |
 
-Lost Links:
-19 backlink tercatat sebagai lost links.
+### Broken Internal Links
 
-Spammy Backlinks
+Dari 5 broken internal links:
 
-Backlink yang terindikasi spam ditinjau lebih lanjut untuk menentukan apakah backlink tersebut perlu dipertahankan atau diajukan untuk proses disavow.
+- 2 URL memerlukan penggantian dengan working URL.
+- 1 URL dapat dihapus.
+- 2 URL memerlukan pembuatan kembali halaman.
 
-Dalam proses ini, URL yang ditandai untuk review diperiksa terlebih dahulu sebelum tindakan dilakukan.
+### Broken Pages with Backlinks
 
-Unindexed Backlinks
+5 URL ditemukan pada broken pages dan diberikan rekomendasi redirect menuju halaman yang relevan.
 
-Dalam periode monitoring yang didokumentasikan:
+### Lost Backlinks
 
-Total URLs Acquired : 50
-HTTP 200 URLs       : 39
+19 backlink ditemukan sebagai lost backlinks dan diperiksa satu per satu berdasarkan kondisi masing-masing.
 
-Backlink yang belum terindeks menjadi kandidat untuk proses indexing sesuai workflow yang berlaku.
+### Unindexed Backlinks
+
+Dari 50 URL yang diperoleh pada periode monitoring, 39 URL memiliki **HTTP status 200** dan menjadi bagian dari proses monitoring indexing.
+
+---
+
+## Reporting Example
+
+Laporan akhir digunakan untuk merangkum hasil audit, rekomendasi, dan tindak lanjut:
+
+![Backlink Health Check Task](assets/screenshots/backlink-health-check-task.png)
+
+![Backlink Health Check Findings](assets/screenshots/backlink-health-check-findings.png)
+
+---
 
 ## Tools
-- Google Search Console
-- Ahrefs
-- Excel / Google Sheets
-- IndexMeNow
+
+- **Ahrefs** — Backlink audit and analysis
+- **Google Sheets / Microsoft Excel** — Data processing, tracking, and reporting
+- **IndexMeNow** — Backlink indexing submission
+
+---
 
 ## Skills Demonstrated
+
 - Backlink Audit
-- Data Checking
-- Data Validation
+- SEO Data Analysis
+- Data Classification
 - Data Cleaning
-- SEO Data Management
 - Spreadsheet Management
-- Issue Classification
+- Link Building Verification
+- Indexing Monitoring
+- SEO Reporting
 - Documentation
 - Cross-team Coordination
-Project Outcome
 
-Melalui proses Backlink Health Check, data backlink dapat diklasifikasikan berdasarkan kondisi dan kebutuhan tindak lanjut, sehingga tim dapat membedakan backlink yang:
+---
 
-perlu diperbaiki,
-perlu direview,
-perlu diarahkan ulang,
-perlu diajukan untuk indexing,
-atau tidak memerlukan tindakan lebih lanjut.
+## Outcome
 
-Proses ini juga membantu menjaga tracking backlink yang terstruktur dan konsisten untuk monitoring SEO secara berkala.
+Menghasilkan proses Backlink Health Check yang terstruktur, mulai dari **audit, pengolahan data, identifikasi masalah, rekomendasi, reporting, hingga follow-up** untuk membantu menjaga kualitas dan monitoring backlink website.
