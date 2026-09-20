@@ -141,7 +141,9 @@ Dari 50 URL yang diperoleh pada periode monitoring, 39 URL memiliki **HTTP statu
 
 Laporan akhir digunakan untuk merangkum hasil audit, rekomendasi, dan tindak lanjut:
 
-![Backlink Health Check Task](assets/screenshots/backlinks-healtcheck-1.PNG)
+| Task Brief | Final Report |
+|---|---|
+| <img src="assets/screenshots/backlinks-healtcheck-1.PNG" alt="Anonymized task brief" width="350"> | <img src="assets/screenshots/backlink-health-check-final-report.png" alt="Anonymized final report" width="350"> |
 
 ![Backlink Health Check Findings](assets/screenshots/backlinks%20healtcheck%202.png)
 
