@@ -145,7 +145,14 @@ Laporan akhir digunakan untuk merangkum hasil audit, rekomendasi, dan tindak lan
 |---|---|
 | <img src="assets/screenshots/backlinks-healtcheck-1.PNG" alt="Anonymized task brief" width="350"> | <img src="assets/screenshots/backlinks-healtcheck-2.PNG" alt="Anonymized final report" width="350"> |
 
-![Backlink Health Check Findings](assets/screenshots/backlinks%20healtcheck%202.png)
+### Supporting Evidence
+
+Additional anonymized documentation:
+
+- [Task brief and scope](assets/screenshots/backlinks-healtcheck-3.PNG)
+- [Broken pages with backlinks](assets/screenshots/backlinks-healtcheck-4.PNG)
+- [Lost backlinks monitoring](assets/screenshots/backlinks-healtcheck-5.PNG)
+- [Unindexed backlinks review](assets/screenshots/backlinks-healtcheck-6.PNG)
 
 ---
 
