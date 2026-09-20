@@ -141,9 +141,9 @@ Dari 50 URL yang diperoleh pada periode monitoring, 39 URL memiliki **HTTP statu
 
 Laporan akhir digunakan untuk merangkum hasil audit, rekomendasi, dan tindak lanjut:
 
-![Backlink Health Check Task](assets/screenshots/backlink-health-check-task.png)
+![Backlink Health Check Task](assets/screenshots/backlinks-healtcheck-1.png)
 
-![Backlink Health Check Findings](assets/screenshots/backlink-health-check-findings.png)
+![Backlink Health Check Findings](assets/screenshots/backlinks-healtcheck-2.png)
 
 ---
 
@@ -152,6 +152,7 @@ Laporan akhir digunakan untuk merangkum hasil audit, rekomendasi, dan tindak lan
 - **Ahrefs** — Backlink audit and analysis
 - **Google Sheets / Microsoft Excel** — Data processing, tracking, and reporting
 - **IndexMeNow** — Backlink indexing submission
+- **Screamingfrog** — URLs analysis
 
 ---
 
