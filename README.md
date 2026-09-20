@@ -1,13 +1,11 @@
 # SEO Backlink Health Check
-Project Overview
+## Project Overview
 
 Proyek ini merupakan bagian dari aktivitas Inbound Marketing yang bertujuan menjaga kesehatan profil backlink sebuah website melalui audit berkala terhadap backlink yang bermasalah, termasuk broken links, lost links, spammy backlinks, dan unindexed backlinks.
 
 Sebagai bagian dari Inbound Marketing Team, saya melakukan pengecekan backlink berdasarkan data dari tracking sheet dan hasil audit SEO, kemudian mendokumentasikan temuan serta tindak lanjut yang diperlukan untuk menjaga kualitas dan kelayakan backlink.
 
-Note: Client name, URLs, domain names, and internal information have been anonymized for portfolio purposes.
-
-Latar Belakang & Masalah
+## Latar Belakang & Masalah
 
 Backlink yang diperoleh melalui aktivitas link building perlu dipantau secara berkala karena kondisi backlink dapat berubah setelah diperoleh. Beberapa permasalahan yang ditemukan dalam proses monitoring antara lain:
 
@@ -20,7 +18,7 @@ URL dengan status HTTP tertentu yang memerlukan pemeriksaan atau tindak lanjut.
 
 Tujuan utama audit adalah mempertahankan backlink profile yang sehat dan memastikan backlink yang diperoleh tetap dapat memberikan nilai bagi website.
 
-Tugas & Tanggung Jawab Saya
+## Tugas & Tanggung Jawab Saya
 
 Sebagai bagian dari Inbound Marketing Team, tanggung jawab saya dalam proses Backlink Health Check meliputi:
 
@@ -45,7 +43,8 @@ Koordinasi dengan tim terkait
 Menyampaikan temuan kepada Project Manager.
 Memberikan informasi kepada tim terkait apabila terdapat broken page atau URL yang memerlukan perbaikan.
 Mengikuti tindak lanjut berdasarkan hasil review dan instruksi tim.
-Metodologi & Langkah Kerja
+
+## Metodologi & Langkah Kerja
 1. Backlink Data Collection
 
 Data backlink dikumpulkan dari backlink tracking sheet dan sumber SEO yang digunakan dalam proses link building.
@@ -138,13 +137,13 @@ HTTP 200 URLs       : 39
 
 Backlink yang belum terindeks menjadi kandidat untuk proses indexing sesuai workflow yang berlaku.
 
-Tools
+## Tools
 - Google Search Console
 - Ahrefs
 - Excel / Google Sheets
 - IndexMeNow
 
-Skills Demonstrated
+## Skills Demonstrated
 - Backlink Audit
 - Data Checking
 - Data Validation
