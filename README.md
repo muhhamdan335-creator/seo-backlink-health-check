@@ -141,9 +141,9 @@ Dari 50 URL yang diperoleh pada periode monitoring, 39 URL memiliki **HTTP statu
 
 Laporan akhir digunakan untuk merangkum hasil audit, rekomendasi, dan tindak lanjut:
 
-![Backlink Health Check Task](assets/screenshots/backlinks-healtcheck-1.png)
+![Backlink Health Check Task](assets/screenshots/backlinks%20healtcheck%201.png)
 
-![Backlink Health Check Findings](assets/screenshots/backlinks-healtcheck-2.png)
+![Backlink Health Check Findings](assets/screenshots/backlinks%20healtcheck%202.png)
 
 ---
 
