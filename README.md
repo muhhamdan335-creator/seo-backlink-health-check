@@ -149,10 +149,10 @@ Laporan akhir digunakan untuk merangkum hasil audit, rekomendasi, dan tindak lan
 
 Additional anonymized documentation:
 
-- [Task brief and scope](assets/screenshots/backlinks-healtcheck-3.PNG)
-- [Broken pages with backlinks](assets/screenshots/backlinks-healtcheck-4.PNG)
-- [Lost backlinks monitoring](assets/screenshots/backlinks-healtcheck-5.PNG)
-- [Unindexed backlinks review](assets/screenshots/backlinks-healtcheck-6.PNG)
+- [Final Report](assets/screenshots/backlinks-healtcheck-3.PNG)
+- [Broken Internal Links Analysis](assets/screenshots/backlinks-healtcheck-4.PNG)
+- [Spammy Backlinks Analysis](assets/screenshots/backlinks-healtcheck-5.PNG)
+- [Unindexed Backlinks Monitoring](assets/screenshots/backlinks-healtcheck-6.PNG)
 
 ---
 
