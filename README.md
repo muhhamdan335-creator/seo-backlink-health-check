@@ -143,16 +143,16 @@ Laporan akhir digunakan untuk merangkum hasil audit, rekomendasi, dan tindak lan
 
 | Task Brief | Final Report |
 |---|---|
-| <img src="assets/screenshots/backlinks-healtcheck-1.PNG" alt="Anonymized task brief" width="350"> | <img src="assets/screenshots/backlinks-healtcheck-2.PNG" alt="Anonymized final report" width="350"> |
+| <img src="assets/screenshots/backlink-health-check-task.png" alt="Anonymized task brief" width="350"> | <img src="assets/screenshots/backlink-health-check-final-report.png" alt="Anonymized final report" width="350"> |
 
 ### Supporting Evidence
 
 Additional anonymized documentation:
 
-- [Final Report](assets/screenshots/backlinks-healtcheck-3.PNG)
-- [Broken Internal Links Analysis](assets/screenshots/backlinks-healtcheck-4.PNG)
-- [Spammy Backlinks Analysis](assets/screenshots/backlinks-healtcheck-5.PNG)
-- [Unindexed Backlinks Monitoring](assets/screenshots/backlinks-healtcheck-6.PNG)
+- [Final Report](assets/screenshots/backlink-health-check-final-report-detail-2.png)
+- [Broken Internal Links Analysis](assets/screenshots/backlink-health-check-broken-internal-links.png)
+- [Spammy Backlinks Analysis](assets/screenshots/spammy-backlinks-analysis.png)
+- [Unindexed Backlinks Monitoring](assets/screenshots/unindexed-backlinks-monitoring.png)
 
 ---
 
