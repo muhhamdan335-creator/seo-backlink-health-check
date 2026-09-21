@@ -10,7 +10,7 @@ Saya bertanggung jawab melakukan audit backlink menggunakan **Ahrefs**, mengolah
 
 ## Peran Saya
 
-Anggota Inbound Marketing Team (SEO)
+Inbound Marketing Team (SEO)
 
 Saya berkolaborasi dengan Project Manager (PM) untuk proses review dan approval, serta dengan Front End Developer (FED) untuk tindak lanjut teknis terkait broken pages dan broken internal links.
 
