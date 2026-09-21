@@ -8,9 +8,11 @@ Saya bertanggung jawab melakukan audit backlink menggunakan **Ahrefs**, mengolah
 
 ---
 
-## Role
+## Peran Saya
 
-**Inbound Marketing Team**
+Anggota Inbound Marketing Team (SEO)
+
+Saya berkolaborasi dengan Project Manager (PM) untuk proses review dan approval, serta dengan Front End Developer (FED) untuk tindak lanjut teknis terkait broken pages dan broken internal links.
 
 ---
 
@@ -105,15 +107,13 @@ Setelah approval:
 
 ## Audit Findings
 
-Contoh hasil dari salah satu audit:
-
-| Category | Findings |
-|---|---:|
-| Broken Internal Links | 5 URLs |
-| Broken Pages with Backlinks | 5 URLs |
-| Lost Backlinks | 19 URLs |
-| Total URLs Acquired | 50 URLs |
-| URLs with HTTP 200 | 39 URLs |
+| Category | Findings | Action Taken |
+|---|---:|---|
+| Broken Internal Links | 5 URLs | Recommended replacement URLs, removal, or page recreation |
+| Broken Pages with Backlinks | 5 URLs | Recommended relevant 301 redirects |
+| Lost Backlinks | 19 URLs | Reviewed status and prioritized follow-up actions |
+| URLs Acquired | 50 URLs | Monitored for indexing status |
+| URLs with HTTP 200 | 39 URLs | Included in indexing monitoring and resubmission workflow |
 
 ### Broken Internal Links
 
@@ -145,9 +145,9 @@ Laporan akhir digunakan untuk merangkum hasil audit, rekomendasi, dan tindak lan
 |---|---|
 | <img src="assets/screenshots/backlink-health-check-task.png" alt="Anonymized task brief" width="350"> | <img src="assets/screenshots/backlink-health-check-final-report.png" alt="Anonymized final report" width="350"> |
 
-### Supporting Evidence
+### Bukti Pendukung
 
-Additional anonymized documentation:
+Dokumentasi tambahan yang telah dianonimkan:
 
 - [Final Report](assets/screenshots/backlink-health-check-final-report-detail-2.png)
 - [Broken Internal Links Analysis](assets/screenshots/backlink-health-check-broken-internal-links.png)
@@ -182,4 +182,18 @@ Additional anonymized documentation:
 
 ## Outcome
 
-Menghasilkan proses Backlink Health Check yang terstruktur, mulai dari **audit, pengolahan data, identifikasi masalah, rekomendasi, reporting, hingga follow-up** untuk membantu menjaga kualitas dan monitoring backlink website.
+Audit ini menghasilkan backlog isu backlink dan rekomendasi tindak lanjut yang terdokumentasi, meliputi:
+
+- 5 broken internal links yang diklasifikasikan berdasarkan tindakan: penggantian URL, penghapusan, atau pembuatan ulang halaman.
+- 5 broken pages yang masih memiliki backlink, dilengkapi rekomendasi redirect ke halaman relevan.
+- 19 lost backlinks yang ditinjau satu per satu untuk menentukan prioritas recovery atau status no action.
+- 39 URL dengan HTTP status 200 yang masuk ke proses monitoring indexing dan resubmission.
+- Laporan terstruktur untuk review PM serta koordinasi implementasi dengan FED.
+
+> Nama klien, domain, URL, dan data sensitif telah dianonimkan untuk kebutuhan portofolio.
+
+---
+
+## Confidentiality Note
+
+All client names, domains, URLs, internal project details, and sensitive data have been anonymized or redacted for portfolio purposes. The screenshots are provided only to demonstrate the workflow, documentation, and SEO analysis process.
